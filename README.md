@@ -1,2 +1,3 @@
 # ssoma
 SSOMA
+[POLITICA_SSOMA_2025.pdf]
